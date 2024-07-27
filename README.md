@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @GCesenas, I love programming and web development. Improving every day to be a fullstack developer :)
-
+- 👋 Hi, I’m @GCesenas, I love programming and web development.
 - 📫 How to reach me? take a look on my website (www.cesenas.com) to see extra information.
 
 <!---
