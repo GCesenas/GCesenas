@@ -42,7 +42,7 @@ Desarrollador de software apasionado por la automatización, el diseño de siste
 
 ## 📫 ¿Donde encontrarme?
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gcesenas/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:gcesenasrivera)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:gcesenasrivera@gmail.com)
 
 ---
 
