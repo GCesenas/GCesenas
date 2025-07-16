@@ -15,7 +15,7 @@ Desarrollador de software apasionado por la automatización, el diseño de siste
 
 ## 📊 Estadísticas
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=GCesenas&theme=dark&hide_border=true&ring=FFA500&fire=FFA500&exclude_days=Sat,Sun" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=GCesenas&theme=dark&hide_border=true&locale=es&exclude_days=Sat,Sun" alt="GitHub Streak" />
 </p>
 
 ## 🧰 Lenguajes
