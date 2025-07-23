@@ -9,7 +9,7 @@ Software developer passionate about automation, scalable systems design, and eng
 
 ## About me
 - 🔭 Currently working at [Sonar Software](https://www.sonar.software)
-- 🌱 Trying to be and improve the best version of myself every day!
+- 🌱 Trying to be and improve the best version of myself every day :)
 - 🛠 I like to build tools that simplify complex processes
 - 💬 Ask me about software development, testing or CI/CD
 
