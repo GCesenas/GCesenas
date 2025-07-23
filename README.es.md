@@ -9,7 +9,7 @@ Desarrollador de software apasionado por la automatización, el diseño de siste
 
 ## Acerca de mí
 - 🔭 Actualmente trabajando en [Sonar Software](https://www.sonar.software)
-- 🌱 ¡Intentando ser y mejorar la mejor versión de mí cada día!
+- 🌱 ¡Intentando ser y mejorar la mejor versión de mí cada día :)
 - 🛠 Me gusta crear herramientas que simplifiquen procesos complejos.
 - 💬 Pregúntame sobre desarrollo de software, pruebas o CI/CD
 
